@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federica</h1>
-<h3 align="center">A passionate jr developer from Italy</h3>
+<h3 align="center">A jr developer from Italy</h3>
 
 - 🔭 I’m currently working on [vue-dashboard](https://github.com/federicaarosio/vue-dashboard)
 
