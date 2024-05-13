@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federica</h1>
 <h3 align="center">A jr developer from Italy</h3>
 
-- 🔭 I’m currently working on [vue-ohstudio](https://github.com/federicaarosio/vue-ohstudio)
+- 🔭 I’m currently working on [laravel-lms](https://github.com/federicaarosio/laravel-lms)
 
 
 <h3 align="left">Languages and Tools:</h3>
